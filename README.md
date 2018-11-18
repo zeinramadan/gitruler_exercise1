@@ -1,1 +1,0 @@
-# gitruler_exercise1
